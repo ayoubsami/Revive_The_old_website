@@ -1,4 +1,7 @@
 What i'm basicly doing in this project is recreate a website i programmed and uploaded in 2021, 
+the new website is uploaded on: https://jsg.great-site.net/?i=1
+
+this is what the old website looked like:
 
 
 ![247360132_564983891278587_22712065813549203_n](https://github.com/user-attachments/assets/41418402-2191-4abe-bd9f-4503f25f2bea)

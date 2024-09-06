@@ -1,6 +1,2 @@
-mcwöc
-wv
-efvwef
-vwefv
-we
-v
+
+![247360132_564983891278587_22712065813549203_n](https://github.com/user-attachments/assets/41418402-2191-4abe-bd9f-4503f25f2bea)
